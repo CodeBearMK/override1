@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\override1\bin\Debug\net6.0\override1.exe
+D:\cat32tw\Desktop\override1\bin\Debug\net6.0\override1.deps.json
+D:\cat32tw\Desktop\override1\bin\Debug\net6.0\override1.runtimeconfig.json
+D:\cat32tw\Desktop\override1\bin\Debug\net6.0\override1.dll
+D:\cat32tw\Desktop\override1\bin\Debug\net6.0\ref\override1.dll
+D:\cat32tw\Desktop\override1\bin\Debug\net6.0\override1.pdb
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\override1.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\override1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\override1.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\override1.AssemblyInfo.cs
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\override1.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\override1.dll
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\ref\override1.dll
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\override1.pdb
+D:\cat32tw\Desktop\override1\obj\Debug\net6.0\override1.genruntimeconfig.cache
